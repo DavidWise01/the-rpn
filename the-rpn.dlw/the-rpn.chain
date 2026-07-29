@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1947
+slug  : the-rpn
+seal  : 156f3470508e5c5c62d670513449f43dbbabc8912f5f979d30147fb0722845fa
+prev  : 296170a423e24e343a4d77f7eb9cea19db1ed3c1ca79e92baf56deee780a0133
+link  : f01a62d727032f8e5628408f559b98d073f62be7d3843c66455d2d02151fab4d
+head  : ca05bc06d51af98bb05d2dfa645b0e2ae63ce77652d21ba0739c969e3be889c7
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
